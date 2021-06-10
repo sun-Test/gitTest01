@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-Gittest01Application<gittest01>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"console": "internalConsole",
+			"mainClass": "sungittest01.example.gittest01.Gittest01Application",
+			"projectName": "gittest01",
+			"args": ""
+		}
+	]
+}
