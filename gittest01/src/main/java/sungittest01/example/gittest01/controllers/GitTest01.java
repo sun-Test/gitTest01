@@ -11,7 +11,11 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class GitTest01 {
     @GetMapping("/t01")
-    public String test02() {
+    public String test01() {
         return "greeting01";
+    }
+   @GetMapping("/t02")
+    public String test02() {
+        return "greeting02";
     }
 }
